@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+
 import math
 datos = [13, 14, 15, 15, 15, 16, 17, 18, 20]
 
